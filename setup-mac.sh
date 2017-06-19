@@ -4,7 +4,7 @@ curl https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh --out
 bash /tmp/Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda
 echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> $HOME/.bash_profile
 export PATH="$HOME/miniconda/bin:$PATH"
-. ~/.bashrc
+. ~/.bash_profile
 conda install jupyter nltk
 
 echo
