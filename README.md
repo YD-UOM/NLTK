@@ -34,7 +34,7 @@ sh /tmp/setup-ubuntu.sh
 
 
 
-5) Close terminal window and open a new terminal window
+5) Open a new terminal window
 
 6) type `jupyter-notebook` in command line and hit `ENTER` key
 
