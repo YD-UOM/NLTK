@@ -6,9 +6,9 @@ echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> $HOME/.bash_profile
 export PATH="$HOME/miniconda/bin:$PATH"
 . ~/.bash_profile
 conda install jupyter nltk
-curl https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-1-beginners-empty.ipynb $HOME/nltk-session-1-beginners-empty.ipynb
+curl https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-1-beginners-empty.ipynb --output $HOME/nltk-session-1-beginners-empty.ipynb
 
-curl https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-2-beginners-empty.ipynb $HOME/nltk-session-2-beginners-empty.ipynb
+curl https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-2-beginners-empty.ipynb --output $HOME/nltk-session-2-beginners-empty.ipynb
 
 echo
 echo 'SETUP COMPLETE.  ENJOY RESPLATTING!'
