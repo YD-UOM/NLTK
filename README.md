@@ -5,12 +5,13 @@ You will need 1 gigabyte of harddisk
 
 2) Download setup script that will install miniconda, jupiter and nltk (copy & paste the command)
 
-```sh
-wget -O /tmp/setup-ubuntu.sh https://raw.githubusercontent.com/doylek1/NLTK/master/setup-ubuntu.sh
+```
+curl  https://raw.githubusercontent.com/doylek1/NLTK/master/setup-mac.sh  --output /tmp/setup-mac.sh
 ```
 or
-```
-wget -O /tmp/setup-mac.sh https://raw.githubusercontent.com/doylek1/NLTK/master/setup-mac.sh
+
+```sh
+wget -O /tmp/setup-ubuntu.sh https://raw.githubusercontent.com/doylek1/NLTK/master/setup-ubuntu.sh
 ```
 
 
