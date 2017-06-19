@@ -17,12 +17,15 @@ wget -O /tmp/setup-ubuntu.sh https://raw.githubusercontent.com/doylek1/NLTK/mast
 
 3) Run the setup script (copy & paste the command)
 ```sh
-sh /tmp/setup-ubuntu.sh
-```
-or
-```sh
 sh /tmp/setup-mac.sh
 ```
+
+or
+
+```sh
+sh /tmp/setup-ubuntu.sh
+```
+
 
 
 4) When asked **“proceed (y/n)”**  , then type `y` and hit `ENTER` key
