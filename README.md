@@ -61,7 +61,7 @@ rm -rf ~/miniconda/
 ## Setup Windows
 
 
-1) Download the `python 3 exe installer` from https://conda.io/miniconda.html 
+1) Download the `python 3 exe installer` from https://conda.io/miniconda.html (If you are not sure and you are using windows 7,8,9 or 10, then use 64-bit exe installer)
 
 2) Run the exe installer and install using default choices.  By clicking next.  (The installation might take a few minutes if the computer is slow, you can click "Show Details" to see the installation progress.
 
