@@ -61,11 +61,11 @@ rm -rf ~/miniconda/
 ## Setup Windows
 
 
-1) Download the `python 3 exe installer` from https://conda.io/miniconda.html (If you are not sure and you are using windows 7,8,9 or 10, then use 64-bit exe installer)
+1) Download the `python 3 exe installer` from https://conda.io/miniconda.html (If you are not sure and you are using windows 7, 8, 9 or 10, then download the 64-bit exe installer)
 
 2) Run the exe installer and install using default choices.  By clicking next.  (The installation might take a few minutes if the computer is slow, you can click "Show Details" to see the installation progress.
 
-3) Open a program called `Select Anaconda Prompt`
+3) When installation is complete, find and open a program called `Select Anaconda Prompt` from the Windows Start Menu. 
 
 This will open a black screen (it might keep blinking if the computer is slow).  Wait until you can start typing
 
@@ -73,7 +73,7 @@ This will open a black screen (it might keep blinking if the computer is slow). 
    
    This will take a a few minutes to download jupyter and nltk.
    
-5) When download is complete, you may wish to change directory by entering  `cd c:\users\me` and `c:`    
+5) When download is complete, you may wish to change directory by your home directory so that jupyter notebooks can be opened and saved in your home directroy.  Change directory by entering  `cd c:\users\myUsername` and `c:`    
 
-6) Type `jupyter-notebook` and press `ENTER` key.    This will start jupyter notebook in your default browser.   
+6) Type `jupyter-notebook` and press `ENTER` key.    This will start jupyter notebook in the default browser.  It might open in Internet Explorer.  If you prefer to use Chrome or Firefox, then you need to change the windows settings to use Chrome or Firefox as the default browser.    
 
