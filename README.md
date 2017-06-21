@@ -3,7 +3,7 @@
 You will need 1 gigabyte of harddisk space
 
 ## Setup Apple Mac / Ubuntu
----
+
 
 1) Open the Terminal
 
@@ -59,7 +59,7 @@ rm -rf ~/miniconda/
 
 
 ## Setup Windows
----
+
 
 1) Download the `python 3 exe installer` from https://conda.io/miniconda.html 
 
