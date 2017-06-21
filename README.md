@@ -1,5 +1,9 @@
 # NLTK
+
 You will need 1 gigabyte of harddisk
+
+## Setup Apple Mac / Ubuntu
+===
 
 1) Open the Terminal
 
@@ -47,3 +51,24 @@ If for any reason, you need to re-install Miniconda (eg. broken download), then 
 ```sh
 rm -rf ~/miniconda/
 ```
+
+
+
+## Setup Windows
+===
+1) Download the `python 3 exe installer` from https://conda.io/miniconda.html 
+
+2) Run the exe installer and install using default choices.  By clicking next.  (The installation might take a few minutes if the computer is slow, you can click "Show Details" to see the installation progress.
+
+3) Open a program called `Select Anaconda Prompt`
+
+This will open a black screen (it might keep blinking if the computer is slow).  Wait until you can start typing
+
+5) Type `conda install jupyter nltk beautifulsoup4` and hit `ENTER` key
+   
+   This will take a a few minutes to download.
+   
+6) When download is complete, you may wish to change directory by entering  `cd c:\users\me` and `c:`.    
+
+7) Type `jupyter-notebook` and press `ENTER` key.    This will start jupyter notebook in your default browser.   
+
