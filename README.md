@@ -69,9 +69,9 @@ rm -rf ~/miniconda/
 
 This will open a black screen (it might keep blinking if the computer is slow).  Wait until you can start typing
 
-4) Type `conda install jupyter nltk beautifulsoup4` and hit `ENTER` key
+4) Type `conda install jupyter nltk beautifulsoup4` and hit `ENTER` key.  When asked do you want to proceed, type `y` and hit `ENTER`.
    
-   This will take a a few minutes to download.
+   This will take a a few minutes to download jupyter and nltk.
    
 5) When download is complete, you may wish to change directory by entering  `cd c:\users\me` and `c:`.    
 
