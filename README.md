@@ -73,7 +73,7 @@ This will open a black screen (it might keep blinking if the computer is slow). 
    
    This will take a a few minutes to download jupyter and nltk.
    
-5) When download is complete, you may wish to change directory by entering  `cd c:\users\me` and `c:`.    
+5) When download is complete, you may wish to change directory by entering  `cd c:\users\me` and `c:`    
 
 6) Type `jupyter-notebook` and press `ENTER` key.    This will start jupyter notebook in your default browser.   
 
