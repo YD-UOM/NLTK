@@ -67,7 +67,7 @@ rm -rf ~/miniconda/
 
 3) When installation is complete, find and open a program called `Select Anaconda Prompt` from the Windows Start Menu. 
 
-This will open a black screen (it might keep blinking if the computer is slow).  Wait until you can start typing
+This will open a new window with a black background (it might keep blinking if the computer is slow).  Wait until you can start typing
 
 4) Type `conda install jupyter nltk beautifulsoup4` and hit `ENTER` key.  When asked do you want to proceed, type `y` and hit `ENTER`.
    
