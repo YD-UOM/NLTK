@@ -5,7 +5,7 @@ bash /tmp/Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda
 echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> $HOME/.bashrc
 export PATH="$HOME/miniconda/bin:$PATH"
 . ~/.bashrc
-conda install jupyter nltk
+conda install jupyter nltk numpy
 wget https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-1-beginners-empty.ipynb -O $HOME/nltk-session-1-beginners-empty.ipynb
 wget https://raw.githubusercontent.com/doylek1/NLTK/master/nltk-session-2-beginners-empty.ipynb -O $HOME/nltk-session-2-beginners-empty.ipynb
 
